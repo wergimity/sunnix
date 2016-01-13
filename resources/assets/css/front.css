@@ -1,0 +1,23 @@
+section h2 {
+    margin-bottom: 19px;
+}
+
+.feature-block {
+    border: 1px solid #ecf0f1;
+    padding: 20px;
+    margin: 10px 5px;
+    text-align: center;
+}
+
+header {
+    background: #f39c12;
+}
+
+section.success {
+    background: #3498db;
+}
+
+.grid-icon {
+    font-size: 64px;
+    color: #AAA;
+}
